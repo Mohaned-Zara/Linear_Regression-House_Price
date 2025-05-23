@@ -15,10 +15,10 @@ This beginner-friendly machine learning project demonstrates how to use Linear R
 ## Visualizations
 
 ### Scatter Plot (Median Income vs House Price)
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot]("images\Scatter_Plot.png")
 
 ### Regression Line (Predicted vs Actual)
-![Regression Line](images/regression_line.png)
+![Regression Line]("images\linear_regression.png")
 
 ## How to Run
 
