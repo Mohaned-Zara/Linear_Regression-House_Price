@@ -11,6 +11,15 @@ This beginner-friendly machine learning project demonstrates how to use Linear R
 ## Dataset
 [California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
 
+
+## Visualizations
+
+### Scatter Plot (Median Income vs House Price)
+![Scatter Plot](images/scatter_plot.png)
+
+### Regression Line (Predicted vs Actual)
+![Regression Line](images/regression_line.png)
+
 ## How to Run
 
 1. Clone the repo:
